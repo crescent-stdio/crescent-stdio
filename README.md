@@ -6,7 +6,7 @@
 
 <br/>
 
-### **`INTERESTS >`** 📷 / 🥐 / 🎻 / 👩‍💻 / 🌌 / 🔭 / 📚  
+### **`INTERESTS >`** 📷 / 🥐 / 🎻 / 👩‍💻 / 🌌
 
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=black"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=black">
 
