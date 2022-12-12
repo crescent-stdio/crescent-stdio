@@ -16,12 +16,12 @@
 
 - I am interested in the various traces in the world.
 - I expressed our lives using a variety of tools and languages, not limited to just one way.
-  - `Web Development`: Front-end(React, Next.js, TypeScript, TailwindCSS) & Back-end(have a little experience, Go, Node.js)
+  - `Web Development`: Front-end(React, Next.js, TypeScript, TailwindCSS) & Back-end(have a little experience, Node.js, Next.js, Go)
   - `Processing data with Python`: Pytorch, Pandas, Numpy, etc.
   - `Interactive Media Art`: Using data sonification(Supercollider, Max/MSP, Sonic PI) & visualization(Processing, p5.js) to create stories.
 - Recently, I am very interested in 🎼`MIR(Music information retrieval)`.
-  - One of my works, [`Fantastic AI Sinawi`](https://www.youtube.com/watch?v=JQMfEKEXb0s) is accepted into [`ISMIR 2022`](https://ismir2022program.ismir.net/music_347.html) Music Program.
-- I like to capture the memories 📷 of the moments that people have.
+  - One of my works, [`Fantastic AI Sinawi`](https://www.youtube.com/watch?v=JQMfEKEXb0s) is accepted into [`ISMIR 2022 Music Program`](https://ismir2022program.ismir.net/music_347.html).
+- I like to 📷capture the memories of the moments that people have.
 - I bake 🥐bread and turn on the 🎻viola.
 
 <br />
