@@ -5,7 +5,7 @@
 <br />
 
 ### `Crescent☾ >`
-- Major in Computer Science and Art & Technology `[9/10]`
+- Major in Computer Science and Art & Technology `[10/10]`
 
 <br />
 
