@@ -5,13 +5,19 @@
 <br />
 
 ### `Crescent☾ >`
-- Major in Computer Science and Art & Technology `[10/10]`
+**Sogang University, South Korea (2018.03 - 2024.02)**
+- [Bachelor of Science] Computer Science & Engineering
+- [Bachelor of Art and Science] Art & Technology 
+
+**MALer Lab, Undergraduate Interns (2023.01 - )**
+- [Music and Art Learning (MALer) Lab (@ Dept. Art & Technology, Sogang University)](https://github.com/MALerLab)
+
 
 <br />
 
 ### **`INTERESTS >`** 📷 / 🍵 / 🎻 / 🥐 / 🔮 / 👩‍💻 / 🌌
 
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=black"> 
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=black"> 
 
 
 - I am interested in the various traces in the world.
@@ -39,6 +45,5 @@
 - Blog: [blog.crescent.dev](https://blog.crescent.dev/)
 - GitHub: [@crescent-stdio](https://github.com/crescent-stdio)
 - LinkedIn: [@crescentstdio](https://www.linkedin.com/in/crescentstdio/)
-- Instagram: [@crescent.studio\_](https://www.instagram.com/crescent.studio_/)
 - BOJ/Codeforce: [@crescent_h](https://www.acmicpc.net/user/crescent_h)
 - unsplash: [@crescent_pic](https://unsplash.com/@crescent_pic)
