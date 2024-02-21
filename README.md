@@ -1,6 +1,6 @@
 # 🌙 Who am I?
 > 세상의 어둠을 행복으로 밝혀주는 달빛처럼 🌃 <br/>
-> I hope My activities can bring happiness to many people, just like the moonlight that lights up the darkness as happiness.
+> Like the moonlight brightening the world's darkness with happiness.
 
 <br />
 
@@ -9,7 +9,7 @@
 - [Bachelor of Science] Computer Science & Engineering
 - [Bachelor of Art and Science] Art & Technology 
 
-**MALer Lab, Undergraduate Interns (2023.01 - )**
+**MALer Lab, Undergraduate Intern (2023.01 - )**
 - [Music and Art Learning (MALer) Lab (@ Dept. Art & Technology, Sogang University)](https://github.com/MALerLab)
 
 
