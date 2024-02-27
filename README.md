@@ -28,7 +28,7 @@
 - Recently, I am interested in 🎼`MIR(Music information retrieval)`.
   - One of my works, [`Fantastic AI Sinawi`](https://www.youtube.com/watch?v=JQMfEKEXb0s) has been accepted into [`ISMIR 2022 Music Program`](https://ismir2022program.ismir.net/music_347.html).
   > 박한나, 한단비내린, 오채령 and 정다샘. (2023). [Fantastic AI Sinawi: 심층신경망 기반 국악 선율 작곡을 활용한 시나위 창작.](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002952465) 디지털콘텐츠학회논문지, 24(4), 785-796.
-- I am also interested in `using AI to provide services`.
+- I am also interested in `AI as a service`.
   - During the fall semester, I led a project to develop an AI model demo. I built the entire platform, from the web application to the inference server. I also implemented a feature to send inference results via email, which improved user convenience.
   - In addition, I created an AI webcam application for facial expression recognition and expression in the age of AI. This application was exhibited at the [2023 Art & Technology Conference 《Delicate disorder and precarious shelter》](https://www.instagram.com/atc.sogang/)
   
