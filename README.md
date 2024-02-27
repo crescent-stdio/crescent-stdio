@@ -1,6 +1,6 @@
 # 🌙 Who am I?
 > 세상의 어둠을 행복으로 밝혀주는 달빛처럼 🌃 <br/>
-> Like the moonlight brightening the world's darkness with happiness.
+> Like the moonlight illuminating the world's darkness with happiness.
 
 <br />
 
