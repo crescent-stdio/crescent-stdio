@@ -44,7 +44,5 @@
 - Portfolio(Korean): [crescent.studio](https://www.crescent.studio/)
 - Mail: hannah@crescent.dev
 - Blog: [blog.crescent.dev](https://blog.crescent.dev/)
-- GitHub: [@crescent-stdio](https://github.com/crescent-stdio)
 - LinkedIn: [@crescentstdio](https://www.linkedin.com/in/crescentstdio/)
-- BOJ/Codeforce: [@crescent_h](https://www.acmicpc.net/user/crescent_h)
 - unsplash: [@crescent_pic](https://unsplash.com/@crescent_pic)
