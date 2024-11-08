@@ -10,12 +10,12 @@
 - Develop a web application for music education based on AI
 
 
-**[Music and Art Learning (MALer) Lab](https://malerlab.github.io/), Intern (2023.01 - 2024.11)**
+**[Music and Art Learning (MALer) Lab](https://malerlab.github.io/), Intern (2023.01 - Present)**
 - Prof. Dasaem Jeong / Dept. Art & Technology, Sogang University 
 - Area of Interest: AI as a Service, AI Music Generation, Music Information Retrieval (MIR)
 
 
-**Sogang University, South Korea (2018.03 - 2024.02)**
+**Sogang University, South Korea (2018.03 - 2024.02 / Graduated)**
 - [Bachelor of Science] Computer Science & Engineering
 - [Bachelor of Art and Science] Art & Technology 
 
@@ -31,6 +31,7 @@
   - Danbinaerin Han, Mark Gotham, Dongmin Kim, Hannah Park, Sihun Lee, and Dasaem Jeong
   - *Proceedings of 25th International Society for Music Information Retrieval Conference (ISMIR)* (Accepted & Best Paper Nomination) 
   - [arXiv:2408.01096](https://arxiv.org/abs/2408.01096)
+  - [How ‘Six Dragons Fly Again: Interactive Web Application’ is implemented](https://www.crescent.studio/project/six-dragons-fly-again-en)
 - PHOTOWAVE, Photo Kiosk Based on Facial Recognition AI Model, 2023
   - [Hannah Park, Gwonyeong Lim, & Jean Ho Chu. (2024). PHOTOWAVE, Photo Kiosk Based on Facial Recognition AI Model, Proceedings of HCI Korea 2024, 1289-1291.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11714852)
 - Fantastic AI Sinawi: Composing Korean Traditional Music Using Deep Neural Networks, 2022 
@@ -47,10 +48,10 @@
 
 ### **`WORKSHOP & TALK >`**
 - Making APIs Work for Everyone Guide: Open APIs & ChatGPT, 2024.02
-  - AxT CC (Crash Course) Short Education Workshop for Sogang University, Department of Art & Technology
+  - Instructor at Art & Technology Crash Course (AxT CC) Short Education Workshop for Sogang University, Department of Art & Technology
   - [착한 말로 감자 키우기 (w/ Hugging Face Inference API)](https://blog.crescent.dev/240205-talk-to-patato/)
 - The Efficacy of Go: Saving the Village from Crisis (Go의 효능 ~마을의 위기를 막다~), 2024.01 
-  - Speaker at Women Who Go: [Get Closer to Go! (2024년에는 Go 언어와 더 친해져 보아요!).](https://festa.io/events/4517)
+  - Speaker at Women Who Go: [Get Closer to Go! (2024년에는 Go 언어와 더 친해져 보아요!).](https://festa.io/events/4517), Golang Korea Community
   - [Slides](https://docs.google.com/presentation/d/1trmh39lEq8GxzLKeccAap92zBrWHQuVB/edit#slide=id.p1)
 
 
