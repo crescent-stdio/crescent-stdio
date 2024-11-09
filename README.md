@@ -50,7 +50,7 @@
 - Making APIs Work for Everyone Guide: Open APIs & ChatGPT, 2024.02
   - Instructor at Art & Technology Crash Course (AxT CC) Short Education Workshop for Sogang University, Department of Art & Technology
   - [착한 말로 감자 키우기 (w/ Hugging Face Inference API)](https://blog.crescent.dev/240205-talk-to-patato/)
-- The Efficacy of Go: Saving the Village from Crisis (Go의 효능 ~마을의 위기를 막다~), 2024.01 
+- The Efficacy of Go: Saving the Village from Crisis (Go의 효능 \~마을의 위기를 막다\~), 2024.01 
   - Speaker at Women Who Go: [Get Closer to Go! (2024년에는 Go 언어와 더 친해져 보아요!)](https://festa.io/events/4517), Golang Korea Community
   - [Slides](https://docs.google.com/presentation/d/1trmh39lEq8GxzLKeccAap92zBrWHQuVB/edit#slide=id.p1)
 
