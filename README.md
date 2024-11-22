@@ -1,6 +1,6 @@
 # 🌙 Who am I?
-> 세상의 어둠을 행복으로 밝혀주는 달빛처럼 🌃 <br/>
-> Like the moonlight illuminating the world's darkness with happiness.
+> 세상을 비추는 찬란한 달빛이 되어 🌃 <br/>
+> Becoming the radiant moonlight that illuminates the world.
 
 <br />
 
@@ -12,7 +12,7 @@
 
 **[Music and Art Learning (MALer) Lab](https://malerlab.github.io/), Intern (2023.01 - Present)**
 - Prof. Dasaem Jeong / Dept. Art & Technology, Sogang University 
-- Area of Interest: AI as a Service, AI Music Generation, Music Information Retrieval (MIR)
+- Area of Interest: AI as a Service, Music Information Retrieval (MIR)
 
 
 **Sogang University, South Korea (2018.03 - 2024.02 / Graduated)**
@@ -29,9 +29,9 @@
 
 - Six Dragons Fly Again: Reviving 15th-Century Korean Court Music with Transformers and Novel Encoding, 2024
   - Danbinaerin Han, Mark Gotham, Dongmin Kim, Hannah Park, Sihun Lee, and Dasaem Jeong
-  - *Proceedings of 25th International Society for Music Information Retrieval Conference (ISMIR)* (Accepted & Best Paper Nomination) 
+  - [*Proceedings of 25th International Society for Music Information Retrieval Conference (ISMIR)* **(Best Paper!)** ](https://ismir2024program.ismir.net/poster_35.html)
   - [arXiv:2408.01096](https://arxiv.org/abs/2408.01096)
-  - [How ‘Six Dragons Fly Again: Interactive Web Application’ is implemented](https://www.crescent.studio/project/six-dragons-fly-again-for-web-en)
+  - [Six Dragons Fly Again for Web: An Interactive Web Application for Everyone](https://www.crescent.studio/project/six-dragons-fly-again-for-web-en)
 - PHOTOWAVE, Photo Kiosk Based on Facial Recognition AI Model, 2023
   - [Hannah Park, Gwonyeong Lim, & Jean Ho Chu. (2024). PHOTOWAVE, Photo Kiosk Based on Facial Recognition AI Model, Proceedings of HCI Korea 2024, 1289-1291.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11714852)
 - Fantastic AI Sinawi: Composing Korean Traditional Music Using Deep Neural Networks, 2022 
