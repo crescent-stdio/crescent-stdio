@@ -5,21 +5,26 @@
 <br />
 
 ### `Crescent☾ >`
-**Sogang Future Lab, Researcher (2024.10 - 2024.11)**
+
+🤖 **Sogang University, Graduate School of AI (2025.03 - )**
+
+- [Master of Science in AI] Digital Human & Entertainment (DHE) Program
+- Prof. Dasaem Jeong, Music and Art Learning (MALer) Lab
+- Area of Interest: Interactive AI Platforms, Music Information Retrieval (MIR)
+
+🎓 **Sogang University, Seoul (2018.02 - 2024.02 / Graduated)**
+
+- [Bachelor of Science] Computer Science and Engineering
+- [Bachelor of Art and Science] Art & Technology
+
+✨ **Sogang Future Lab, Researcher (2024.10 - 2024.11)**
+
 - Researcher of Development and Application of Music Education Content Using AI and VR through the Global Humanities and Social Convergence Research Support Program from Sogang Future Lab, Sogang University
 - Develop a web application for music education based on AI
 
-
-**[Music and Art Learning (MALer) Lab](https://malerlab.github.io/), Intern (2023.01 - Present)**
-- Prof. Dasaem Jeong / Dept. Art & Technology, Sogang University 
-- Area of Interest: AI as a Service, Music Information Retrieval (MIR)
-
-
-**Sogang University, South Korea (2018.03 - 2024.02 / Graduated)**
-- [Bachelor of Science] Computer Science & Engineering
-- [Bachelor of Art and Science] Art & Technology 
-
-
+🎵 **Music and Art Learning (MALer) Lab, Intern (2023.01 - 2025.02)**
+- Prof. Dasaem Jeong / Dept. Art & Technology, Sogang University
+- Area of Interest: AI as a Service, AI Music Generation, Music Information Retrieval (MIR)
 
 <br />
 
@@ -27,6 +32,8 @@
 
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=black"> 
 
+- GAON: Generative AI Offers Notes for your music, 2024
+  - HCI Korea 2025 Creative Award Capstone Project
 - Six Dragons Fly Again: Reviving 15th-Century Korean Court Music with Transformers and Novel Encoding, 2024
   - Danbinaerin Han, Mark Gotham, Dongmin Kim, Hannah Park, Sihun Lee, and Dasaem Jeong
   - [*Proceedings of 25th International Society for Music Information Retrieval Conference (ISMIR)* **(Best Paper!)** ](https://ismir2024program.ismir.net/poster_35.html)
