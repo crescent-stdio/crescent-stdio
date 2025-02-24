@@ -6,11 +6,11 @@
 
 ### `Crescent☾ >`
 
-🤖 **Sogang University, Graduate School of AI (2025.03 - )**
+🤖 **Sogang University, Graduate School of AI (2025.03 - Present)**
 
 - [Master of Science in AI] Digital Human & Entertainment (DHE) Program
 - Prof. Dasaem Jeong, Music and Art Learning (MALer) Lab
-- Area of Interest: Interactive AI Platforms, Music Information Retrieval (MIR)
+- Area of Interest: Interactive AI Application Framework, Music Information Retrieval (MIR)
 
 🎓 **Sogang University, Seoul (2018.02 - 2024.02 / Graduated)**
 
@@ -20,7 +20,7 @@
 ✨ **Sogang Future Lab, Researcher (2024.10 - 2024.11)**
 
 - Researcher of Development and Application of Music Education Content Using AI and VR through the Global Humanities and Social Convergence Research Support Program from Sogang Future Lab, Sogang University
-- Develop a web application for music education based on AI
+- Develop a web application for music education based on AI -> [GAON: Generative AI Offers Notes for your music]
 
 🎵 **Music and Art Learning (MALer) Lab, Intern (2023.01 - 2025.02)**
 - Prof. Dasaem Jeong / Dept. Art & Technology, Sogang University
@@ -32,13 +32,17 @@
 
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=black"> 
 
-- GAON: Generative AI Offers Notes for your music, 2024
-  - HCI Korea 2025 Creative Award Capstone Project
+- GAON: Generative AI Offers Notes for your music, 2025
+  - Hannah Park, Dasaem Jeong. GAON: Generative AI Offers Notes for your music, Proceedings of HCI Korea 2025
+  - [가온: 가장 어울리는 음으로 온전한 선율을 이어주는 AI 파트너 (ko)](https://www.blog.crescent.dev/250204-gaon/)
 - Six Dragons Fly Again: Reviving 15th-Century Korean Court Music with Transformers and Novel Encoding, 2024
   - Danbinaerin Han, Mark Gotham, Dongmin Kim, Hannah Park, Sihun Lee, and Dasaem Jeong
-  - [*Proceedings of 25th International Society for Music Information Retrieval Conference (ISMIR)* **(Best Paper!)** ](https://ismir2024program.ismir.net/poster_35.html)
-  - [arXiv:2408.01096](https://arxiv.org/abs/2408.01096)
-  - [Six Dragons Fly Again for Web: An Interactive Web Application for Everyone](https://www.crescent.studio/project/six-dragons-fly-again-for-web-en)
+  - *Proceedings of 25th International Society for Music Information Retrieval Conference (ISMIR)* 
+    - 🏆 Best Paper
+    - [ISMIR 2024](https://ismir2024program.ismir.net/poster_35.html)
+    - [arXiv:2408.01096](https://arxiv.org/abs/2408.01096)
+  - [How ‘Six Dragons Fly Again: Interactive Web Application’ is implemented (en)](https://www.crescent.studio/project/six-dragons-fly-again-for-web-en)
+  - [Six Dragons Fly Again: 인터랙티브 웹 어플리케이션 (ko)](https://www.blog.crescent.dev/240801-six-dragons-fly-again/)
 - PHOTOWAVE, Photo Kiosk Based on Facial Recognition AI Model, 2023
   - [Hannah Park, Gwonyeong Lim, & Jean Ho Chu. (2024). PHOTOWAVE, Photo Kiosk Based on Facial Recognition AI Model, Proceedings of HCI Korea 2024, 1289-1291.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11714852)
 - Fantastic AI Sinawi: Composing Korean Traditional Music Using Deep Neural Networks, 2022 
