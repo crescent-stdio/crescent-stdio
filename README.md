@@ -1,16 +1,11 @@
 # 🌙 Who am I?
+<div style="text-align:center">
+<img src="https://blog.crescent.dev/assets/og_crescent_none.png" style="width:80%">
+</div>
+
 > 세상을 비추는 찬란한 달빛이 되어 🌃 <br/>
 > Moonlight illuminating the path from research to real life.
 
-![Crescent](https://blog.crescent.dev/assets/og_crescent_none.png)
-
-- Portfolio: [crescent.studio](https://www.crescent.studio/)
-- Mail: hannah@crescent.dev
-- Blog: [blog.crescent.dev](https://blog.crescent.dev/)
-- LinkedIn: [@crescentstdio](https://www.linkedin.com/in/crescentstdio/)
-- BOJ (Baekjoon Online Judge): [@crescent_h](https://solved.ac/profile/crescent_h)
-
-<br />
 
 ### `Crescent☾ >`
 
