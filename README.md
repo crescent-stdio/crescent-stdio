@@ -13,7 +13,7 @@
 
 - *[Master of Science in AI] Digital Human & Entertainment (DHE) Program*
 - Prof. Dasaem Jeong, Music and Art Learning (MALer) Lab
-- Area of Interest: Interactive AI Application Framework, Music Information Retrieval (MIR)
+- Area of Interest: Interactive Interface for AI, Music Information Retrieval (MIR)
 
 🎓 **Sogang University, Seoul (2018.02 - 2024.02)**
 - *Bachelor of Science in Computer Science and Engineering*
